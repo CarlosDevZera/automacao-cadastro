@@ -21,17 +21,17 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
 - 📊 **Pandas** – Para manipulação e criação da planilha Excel com os dados fictícios
 - 엑셀 **Openpyxl** – Para leitura da planilha Excel pelo script de automação
 - 🖱️ **PyAutoGUI** – Para automação de interações com a interface gráfica (cliques e teclado)
-- 📋 **Pyperclip** (Recomendado) – Para copiar/colar texto, especialmente útil para caracteres especiais.
+
 
 ---
 
 ## 📂 Estrutura do Projeto (Sugerida)
-/automacao-cadastro/
-|-- gerador_dados.py                # Script para gerar dados_ficticios_500.xlsx
-|-- sistema_cadastro_fake.py        # Script da aplicação Tkinter GUI (sistema alvo)
-|-- automacao_cadastro_clientes.py  # Script principal de automação com PyAutoGUI
-|-- dados_ficticios_500.xlsx        # Gerado por gerador_dados.py (após execução)
-|-- dados_salvos_sistema_fake.csv   # Gerado por sistema_cadastro_fake.py (após interações)
+/automacao-cadastro/ <br>
+|-- gerador_dados.py                # Script para gerar dados_ficticios_500.xlsx <br>
+|-- sistema_cadastro_fake.py        # Script da aplicação Tkinter GUI (sistema alvo) <br>
+|-- automacao_cadastro_clientes.py  # Script principal de automação com PyAutoGUI <br>
+|-- dados_ficticios_500.xlsx        # Gerado por gerador_dados.py (após execução) <br>
+|-- dados_salvos_sistema_fake.csv   # Gerado por sistema_cadastro_fake.py (após interações) <br>
 |-- README.md                       # Este arquivo
 
 
