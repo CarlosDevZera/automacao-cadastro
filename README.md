@@ -1,4 +1,4 @@
-# 🚀 Cadastro Automatizado
+# Cadastro Automatizado
 
 Este projeto demonstra uma automação de preenchimento de cadastros em uma aplicação desktop local. Utiliza **Python** para gerar dados fictícios, uma interface gráfica com **Tkinter** para simular o sistema de cadastro, e **PyAutoGUI** para realizar a automação da inserção desses dados.
 

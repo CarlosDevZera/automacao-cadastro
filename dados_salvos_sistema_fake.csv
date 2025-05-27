@@ -1,2 +1,4 @@
 ID_Cliente;Nome_Completo;Email;Telefone;Estado;Produto;Valor_Ultima_Compra;Data_Cadastro;Status_Cliente
-;;;;SP;;;;Ativo
+1;Guilherme Lopes;agathada-conceicao@example.net;+55 (051) 7521 0747;GO;TV;1372.23;12/06/2024;Pendente
+2;Lucas Sampaio;abreulunna@example.com;+55 (081) 1936-6114;AL;Tablet;163.27;10/06/2024;Ativo
+3;Mateus Sales;mendoncacecilia@example.com;61 0479-4734;SP;Notebook;147.22;07/01/2025;Inativo
