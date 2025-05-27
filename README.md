@@ -27,12 +27,12 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
 
 ## 📂 Estrutura do Projeto (Sugerida)
 /automacao-cadastro/ <br>
-|-- gerador_dados.py                # Script para gerar dados_ficticios_500.xlsx <br>
-|-- sistema_cadastro_fake.py        # Script da aplicação Tkinter GUI (sistema alvo) <br>
-|-- automacao_cadastro_clientes.py  # Script principal de automação com PyAutoGUI <br>
-|-- dados_ficticios_500.xlsx        # Gerado por gerador_dados.py (após execução) <br>
-|-- dados_salvos_sistema_fake.csv   # Gerado por sistema_cadastro_fake.py (após interações) <br>
-|-- README.md                       # Este arquivo
+|-- gerador_dados.py                 <br>
+|-- sistema_cadastro_fake.py         <br>
+|-- automacao_cadastro_clientes.py   <br>
+|-- dados_ficticios_500.xlsx         <br>
+|-- dados_salvos_sistema_fake.csv    <br>
+|-- README.md                       
 
 
 
