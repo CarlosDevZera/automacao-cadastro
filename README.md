@@ -27,7 +27,7 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
 
 ## 📂 Estrutura do Projeto (Sugerida)
 /automacao-cadastro/ <br>
-|-- gerador_dados.py                 <br>
+|-- criador_planilha_fake.py                 <br>
 |-- sistema_cadastro_fake.py         <br>
 |-- automacao_cadastro_clientes.py   <br>
 |-- dados_ficticios_500.xlsx         <br>
@@ -60,20 +60,20 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
     ```
 
 4.  **Instale as dependências:**
-    Certifique-se de que o `pip` está atualizado e instale as bibliotecas listadas no `requirements.txt` (se você criar um) ou manualmente:
+    Certifique-se de que o `pip` está atualizado e instale as bibliotecas manualmente:
     ```bash
     pip install pandas faker openpyxl pyautogui pyperclip
     ```
     *(Tkinter geralmente já vem com a instalação padrão do Python).*
 
-5.  **Execute o Gerador de Dados:**
+5.  **Execute o criador_planilha_fake:**
     Este script criará o arquivo `dados_ficticios_500.xlsx` no mesmo diretório.
     ```bash
-    python gerador_dados.py
+    python criador_planilha_fake.py
     ```
 
 6.  **Execute o Script de Automação:**
-    Este script tentará iniciar o `sistema_cadastro_fake.py` (a GUI Tkinter) e, em seguida, começará a preencher os dados.
+    Este script tentará iniciar o `automacao_cadastro_clientes.py` (a GUI Tkinter) e, em seguida, começará a preencher os dados.
     ```bash
     python automacao_cadastro_clientes.py
     ```
@@ -85,7 +85,7 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
 
 ## 📜 Explicação dos Scripts
 
-* **`gerador_dados.py`:**
+* **`criador_planilha_fake.py`:**
     * Utiliza `Faker` para criar dados realistas e `pandas` para organizar esses dados em um DataFrame.
     * Salva o DataFrame como uma planilha Excel (`dados_ficticios_500.xlsx`), que servirá de entrada para o robô.
 
