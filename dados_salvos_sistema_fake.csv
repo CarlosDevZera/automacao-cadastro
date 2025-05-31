@@ -1,4 +1,11 @@
 ID_Cliente;Nome_Completo;Email;Telefone;Estado;Produto;Valor_Ultima_Compra;Data_Cadastro;Status_Cliente
-1;Guilherme Lopes;agathada-conceicao@example.net;+55 (051) 7521 0747;GO;TV;1372.23;12/06/2024;Pendente
-2;Lucas Sampaio;abreulunna@example.com;+55 (081) 1936-6114;AL;Tablet;163.27;10/06/2024;Ativo
-3;Mateus Sales;mendoncacecilia@example.com;61 0479-4734;SP;Notebook;147.22;07/01/2025;Inativo
+1;Vinicius Campos;amanda29@example.com;41 8330-2441;PE;Fone de Ouvido;2247.76;27/10/2024;Pendente
+2;Paulo Campos;theobrito@example.com;(061) 1253-2171;DF;TV;2789.08;12/09/2024;Inativo
+3;Alcia Macedo;bsouza@example.net;(081) 2781 2556;AC;Notebook;2193.67;06/10/2024;Inativo
+4;Jos Pedro Silveira;da-cunhamirella@example.net;(031) 3683 6736;RO;TV;2919.36;12/07/2024;Pendente
+5;Francisco Fogaa;mirella48@example.org;+55 (011) 6255 9499;MA;Tablet;1087.28;03/02/2025;Ativo
+1;Vinicius Campos;amanda29@example.com;41 8330-2441;PE;Fone de Ouvido;2247.76;27/10/2024;Pendente
+2;Paulo Campos;theobrito@example.com;(061) 1253-2171;DF;TV;2789.08;12/09/2024;Inativo
+3;Alcia Macedo;bsouza@example.net;(081) 2781 2556;AC;Notebook;2193.67;06/10/2024;Inativo
+4;Jos Pedro Silveira;da-cunhamirella@example.net;(031) 3683 6736;RO;TV;2919.36;12/07/2024;Pendente
+5;Francisco Fogaa;mirella48@example.org;+55 (011) 6255 9499;MA;Tablet;1087.28;03/02/2025;Ativo

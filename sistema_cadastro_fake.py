@@ -11,7 +11,7 @@ def criar_tela_cadastro():
     janela = tk.Tk()
     janela.title("Sistema de Cadastro de Clientes (Fake)")
     janela.geometry("600x550+100+100")
-    janela.resizable(False, False)
+    janela.resizable(True, True)
 
     global entry_fields
     entry_fields = {}

@@ -27,7 +27,7 @@ for i in range(1, num_registros + 1):
     telefone.append(fake.phone_number())
     estado.append(fake.state_abbr())  # Sigla do estado (SP, RJ, MG, etc.)
 
-    # Escolha um produto de interesse aleatório
+
     produtos = ['Celular', 'Notebook', 'Tablet', 'Fone de Ouvido', 'TV', 'Smartwatch']
     produtos_interesse.append(random.choice(produtos))
 
