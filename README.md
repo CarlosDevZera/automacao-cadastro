@@ -47,7 +47,7 @@ Este projeto demonstra uma automação de preenchimento de cadastros em uma apli
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/CarlosDevZera/automacao-cadastro](https://github.com/CarlosDevZera/automacao-cadastro)
+    git clone https://github.com/CarlosDevZera/automacao-cadastro
     ```
 
 2.  **Acesse a pasta do projeto:**
